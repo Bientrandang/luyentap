@@ -1,4 +1,9 @@
 h2 {
   color: blue;
   font: bold;
+  background-color: rgb(154, 199, 255);
+}
+img {
+  float: right;
+  width: 35%;
 }
