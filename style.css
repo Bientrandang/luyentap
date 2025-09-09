@@ -5,6 +5,7 @@ h2 {
 }
 img {
   float: right;
-  width: 200px;
-  height: 250px;
+  margin-left: 20px;
+  border-radius: 8px;
+  width: 150px;
 }
